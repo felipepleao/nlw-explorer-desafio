@@ -6,7 +6,7 @@
 
 Projeto foi desenvolvido no evento Next Level Week da Rocketseat
 
-🔗[Clique aqui para acessar]()
+🔗[Clique aqui para acessar](https://felipepleao.github.io/nlw-explorer-desafio)
 
 ## 💻 Tecnologias
 
