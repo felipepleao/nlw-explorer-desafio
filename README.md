@@ -6,7 +6,7 @@
 
 Projeto foi desenvolvido no evento Next Level Week da Rocketseat
 
-🔗[Clique aqui para acessar](https://felipepleao.github.io/nlw-explorer-desafio)
+🔗[Clique aqui para acessar](https://nlw-explorer-desafio.vercel.app/)
 
 ## 💻 Tecnologias
 
